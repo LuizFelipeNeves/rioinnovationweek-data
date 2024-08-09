@@ -1,0 +1,76 @@
+{
+    "hora": "18:00",
+    "data": "2024-8-13",
+    "conferencia": "Píer Space - Cine",
+    "durancao": "1 Hr",
+    "titulo": "BRIFW - Screening Session Line-up 2024",
+    "descricao": "Sessão de transmissão de 14 trabalhos inéditos de artistas e criadores digitais da Immersive Community da BRIFW",
+    "palestrantes": [
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80701505072024135252pm.webp",
+        "nome": "Mateos Quadros",
+        "empresa": "mateos quadros",
+        "cargo": "fundador e diretor criativo"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/59609905072024131354pm.webp",
+        "nome": "Guilherme Machado",
+        "empresa": "Guilherme Machado",
+        "cargo": "Artista 3D"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88720618072024193003pm.webp",
+        "nome": "Hanna Inaiáh",
+        "empresa": "Hanna Inaiáh",
+        "cargo": "Artista"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53257410072024134727pm.webp",
+        "nome": "Eduardo Politzer",
+        "empresa": "Doce Marola",
+        "cargo": "head"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65375810072024024233am.webp",
+        "nome": "Matheus Carvalho",
+        "empresa": "mlgnh_",
+        "cargo": "Artista Digital"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21992310072024231916pm.webp",
+        "nome": "Felipe Nunes",
+        "empresa": "Felipe Nunes",
+        "cargo": "Artista 3D"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60234316072024002238am.webp",
+        "nome": "Theory of Nothing [TON]",
+        "empresa": "Theory of Nothing",
+        "cargo": "CEO da TON"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/28127716072024113421am.webp",
+        "nome": "Matheus Gramacho",
+        "empresa": "Freelancer",
+        "cargo": "Artista 3D"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/24078015072024192851pm.webp",
+        "nome": "Gabriel Brasil",
+        "empresa": "Imaginaria",
+        "cargo": "Criador Digital"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/55133717072024155948pm.webp",
+        "nome": "Sogno",
+        "empresa": "Coletivo de Comunicação da Teia dos Povos",
+        "cargo": "Comunicador Popular"
+      },
+      {
+        "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32593525072024140724pm.webp",
+        "nome": "Jean Petra",
+        "empresa": "Autônomo",
+        "cargo": "Escultor Digital"
+      }
+    ]
+  }

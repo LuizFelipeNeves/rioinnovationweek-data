@@ -1,0 +1,3145 @@
+[
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/79102606062024000430am.webp",
+    "nome": "Henrique Sá Earp",
+    "empresa": "Universidade Estadual de Campinas (Unicamp)",
+    "cargo": "Professor Associado",
+    "id": 1
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48966029082023185932pm.webp",
+    "nome": "Xavier Leclerc",
+    "empresa": "MOX Digital",
+    "cargo": "Curador geral",
+    "id": 2
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/84703618092023214217pm.webp",
+    "nome": "Luiz Mandarino",
+    "empresa": "Energy Hub Ventures | Sai do Papel",
+    "cargo": "Sócio e Idealizador",
+    "id": 3
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32385619052024224442pm.webp",
+    "nome": "Dani Junco",
+    "empresa": "B2Mamy",
+    "cargo": "CEO",
+    "id": 4
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/96530306082024112535867819.webp",
+    "nome": "Ronaldo Damião",
+    "empresa": "Hospital Universitário Pedro Ernesto/UERJ",
+    "cargo": "Pró-Reitor de Saúde PR5",
+    "id": 5
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/6997230092023133936pm.webp",
+    "nome": "Jerson Lima da Silva",
+    "empresa": "Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "cargo": "Presidente",
+    "id": 6
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48235830092023141455pm.webp",
+    "nome": "Eliete Bouskela ",
+    "empresa": "FAPERJ",
+    "cargo": "Diretora Científica",
+    "id": 7
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/22873506082024172437354906.webp",
+    "nome": "Anderson Moraes",
+    "empresa": "-",
+    "cargo": "Secretário de Estado de Ciência, Tecnologia e Inovação",
+    "id": 8
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/61236806082024095805178120.webp",
+    "nome": "Flávio Ronison Sampaio",
+    "empresa": "DATAPREV",
+    "cargo": "Diretor de Produtos e Soluções",
+    "id": 9
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/66874227062024153532pm.webp",
+    "nome": "Rodolfo Henrique de Saboia",
+    "empresa": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP",
+    "cargo": "Diretor-Geral",
+    "id": 10
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98421406082024105133108114.webp",
+    "nome": "Rogério Paes Menezes Filho",
+    "empresa": "MWF Technologies",
+    "cargo": "Diretor e Cofundador",
+    "id": 11
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/70166410062024223852pm.webp",
+    "nome": "João Balsini",
+    "empresa": "NONADA",
+    "cargo": "Sócio-fundador/Diretor",
+    "id": 12
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95103422072024205639pm.webp",
+    "nome": "Pedro Galaso",
+    "empresa": "Studio Pedro Galaso",
+    "cargo": "Diretor Criativo",
+    "id": 13
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/14967007082024152249042688.webp",
+    "nome": "Edu Nascimento",
+    "empresa": "Jornalista",
+    "cargo": "Especialista em legislação e políticas públicas",
+    "id": 14
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/66832001072024102506am.webp",
+    "nome": "Sérgio Ribeiro",
+    "empresa": "Planetiers",
+    "cargo": "CEO & Cofundador",
+    "id": 15
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/7124729072024180243pm.webp",
+    "nome": "Eduardo Frezarin ",
+    "empresa": "YAZO",
+    "cargo": "CEO",
+    "id": 16
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/79648610072024230810pm.webp",
+    "nome": "Graziela Domingues",
+    "empresa": "Graviola Produções",
+    "cargo": "Diretora",
+    "id": 17
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89829830072024134911pm.webp",
+    "nome": "Andre Gaspar de Abreu",
+    "empresa": "Carta",
+    "cargo": "Engineering Director",
+    "id": 18
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21964612072024201030pm.webp",
+    "nome": "Ignacio Faré",
+    "empresa": "Draper House Americas",
+    "cargo": "Co founder",
+    "id": 19
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20883208082023110715am.webp",
+    "nome": "Fabrício Tota",
+    "empresa": "MB | Mercado Bitcoin",
+    "cargo": "VP de Novos Negócios",
+    "id": 20
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29149724072023222329pm.webp",
+    "nome": "Nathalia Arcuri ",
+    "empresa": "Me Poupe!",
+    "cargo": "Fundadora",
+    "id": 21
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/61233017062024192513pm.webp",
+    "nome": "Alena Afanaseva",
+    "empresa": "Beincrypto",
+    "cargo": "CEO",
+    "id": 22
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/72976131072024174351pm.webp",
+    "nome": "Daniel Biaggio ",
+    "empresa": "Serena Energia",
+    "cargo": "CTO",
+    "id": 23
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/6020108082024113755247305.webp",
+    "nome": "João Rocha",
+    "empresa": "Amazon",
+    "cargo": "Helping organizations meet their business goals through the power of the Cloud | Board Member | Mentor | ESG | Climate Change",
+    "id": 24
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15528704082024162652pm.webp",
+    "nome": "Karin Karling",
+    "empresa": "RIOgaleão",
+    "cargo": "Gerente de Negócios e Inovação",
+    "id": 25
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67369305082024153830pm.webp",
+    "nome": "Elbert Beekman",
+    "empresa": "Heineken",
+    "cargo": "Gerente Senior de Marketing",
+    "id": 26
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/12901706082024074110213716.webp",
+    "nome": "Leandro Monteiro",
+    "empresa": "Impact Hub Goiânia",
+    "cargo": "CEO",
+    "id": 27
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/22001107082024151628576975.webp",
+    "nome": "David Tavares",
+    "empresa": "Acer / XPG / Logitech",
+    "cargo": "Jornalista e Criador de Conteúdo",
+    "id": 28
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/31970102082024192307pm.webp",
+    "nome": "Mayara Correia Santinho",
+    "empresa": "Canal Woohoo",
+    "cargo": "Gerente de Projetos",
+    "id": 29
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/9495005092023124532pm.webp",
+    "nome": "Alexandre Trece Motta",
+    "empresa": "Insituto de Identificação Félix Pacheco",
+    "cargo": "Perito Papiloscopista",
+    "id": 30
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/73227731082023160308pm.webp",
+    "nome": "Adriano Messias Carpinetti",
+    "empresa": "MI Montreal",
+    "cargo": "Pesquisa e Desenvolvimento",
+    "id": 31
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/70806331072024200404pm.webp",
+    "nome": "Marcelo Oliveira",
+    "empresa": "Rio International School",
+    "cargo": "Sócio - CEO",
+    "id": 32
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/62244931072024203934pm.webp",
+    "nome": "Carlos Guimaraes",
+    "empresa": "ISG Company",
+    "cargo": "Founder & CEO",
+    "id": 33
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94885331072024203807pm.webp",
+    "nome": "Jean Carlo Nemanis Cascardo",
+    "empresa": "PIT - Parque de Inovação Tecnológica de São José dos Campos",
+    "cargo": "Coordenador de Projetos",
+    "id": 34
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/10429601082024183718pm.webp",
+    "nome": "Marcelo Rezende",
+    "empresa": "Petrobras Transporte SA",
+    "cargo": "Consultor",
+    "id": 35
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80668205072024222559pm.webp",
+    "nome": "Martha Gabriel",
+    "empresa": "Future Now Strategies Ltda",
+    "cargo": "CEO",
+    "id": 36
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/105723072024202832pm.webp",
+    "nome": "David Hertz ",
+    "empresa": "Gastromotiva",
+    "cargo": "Fundador Gastromotiva e Cofundador do Pacto Contra a Fome",
+    "id": 37
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89825031072024195521pm.webp",
+    "nome": "Claudia Maria da Silva Queiroga",
+    "empresa": "Doces Lembranças por Claudia Queiroga",
+    "cargo": "Chef de Cozinha Social",
+    "id": 38
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8602231072024163836pm.webp",
+    "nome": "Daniela Maia",
+    "empresa": "Prefeitura Cidade Do Rio De Janeiro",
+    "cargo": "Secretária de Turismo do Rio",
+    "id": 39
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/9864308082024112550199720.webp",
+    "nome": "Georgia Gomes ",
+    "empresa": "G&GGourmet Pequena África",
+    "cargo": "Chef de cozinha",
+    "id": 40
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/64196126072024153606pm.webp",
+    "nome": "Luiza Novaes",
+    "empresa": "PUC-Rio",
+    "cargo": "Coordenadora do Programa de Pós-graduação em Design PUC-Rio",
+    "id": 41
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/23295405082024215823pm.webp",
+    "nome": "Leonardo Bora",
+    "empresa": "Acadêmicos do Grande Rio",
+    "cargo": "Carnavalesco",
+    "id": 42
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94274931072024212649pm.webp",
+    "nome": "Nilton Gamba Jr.",
+    "empresa": "PUC-Rio",
+    "cargo": "Diretor do Departamento de Artes e Design",
+    "id": 43
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/2297129072024135920pm.webp",
+    "nome": "Flávio Sabrá",
+    "empresa": "IFRJ campus Belford Roxo",
+    "cargo": "Diretor de Ensino",
+    "id": 44
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/49073426072024215012pm.webp",
+    "nome": "Kallie Dias",
+    "empresa": "PUC-Rio",
+    "cargo": "Pesquisadora e Mestranda em Design",
+    "id": 45
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/69630526072024202658pm.webp",
+    "nome": "Desirée Bastos",
+    "empresa": "UFRJ-EBA",
+    "cargo": "Professora Adjunta",
+    "id": 46
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/17252907082024183712171509.webp",
+    "nome": "Mariana Case",
+    "empresa": "-",
+    "cargo": "Revisora de textos, mestre e doutora em Literatura Comparada",
+    "id": 47
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/13480107082024175030488351.webp",
+    "nome": "Licia Matos",
+    "empresa": "-",
+    "cargo": "Revisora de textos, mestre e doutora em Literatura Portuguesa",
+    "id": 48
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30591227062024015953am.webp",
+    "nome": "Tiago Barra",
+    "empresa": "Digital Forest",
+    "cargo": "Fundador",
+    "id": 49
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/91789917062024192833pm.webp",
+    "nome": "Ana Paula Mussel",
+    "empresa": "Oracle",
+    "cargo": "Diretora Global de Gestão de Riscos",
+    "id": 50
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98169628082023133529pm.webp",
+    "nome": "Diego Braga",
+    "empresa": "Kimob - Soluções Digitais",
+    "cargo": "Founder",
+    "id": 51
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/46664612072024203350pm.webp",
+    "nome": "Renate Fuchs",
+    "empresa": "Accenture",
+    "cargo": "Managing Director",
+    "id": 52
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/49734108072024210341pm.webp",
+    "nome": "Dayana Uhdre",
+    "empresa": "PGE-PR",
+    "cargo": "Procuradora do Estado",
+    "id": 53
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/63881706072024151723pm.webp",
+    "nome": "Nathalie Vidual",
+    "empresa": "CVM",
+    "cargo": "Superintendente",
+    "id": 54
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29683130092023131317pm.webp",
+    "nome": "Gabriela Trevisan",
+    "empresa": "BTG Pactual",
+    "cargo": "Advogada",
+    "id": 55
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/83424105082024182417pm.webp",
+    "nome": "Camila Rioja",
+    "empresa": "Plexos Institute",
+    "cargo": "Presidente",
+    "id": 56
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/96246505062024193550pm.webp",
+    "nome": "Caito Maia",
+    "empresa": "-",
+    "cargo": "Fundador da Chilli Beans, a maior rede de óculos da América Latina",
+    "id": 57
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/85807717082023135918pm.webp",
+    "nome": "Camila Farani",
+    "empresa": "G2 Capital",
+    "cargo": "Presidente",
+    "id": 58
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/69652108082024110528634186.webp",
+    "nome": "Celso Rayol",
+    "empresa": "Cité Arquitetura",
+    "cargo": "Sócio Fundador",
+    "id": 59
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/25742713092023202459pm.webp",
+    "nome": "Rafael Albuquerque",
+    "empresa": "Zoox Smart Data",
+    "cargo": "CEO e Founder",
+    "id": 60
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/23236605082024203712pm.webp",
+    "nome": "Patricia Rodrigues",
+    "empresa": "Mais que Isso",
+    "cargo": "Sócia",
+    "id": 61
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/18148419072024164807pm.webp",
+    "nome": "Marcel Nobre",
+    "empresa": "BetaLab",
+    "cargo": "Founder & CEO",
+    "id": 62
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44979029072024121433pm.webp",
+    "nome": "Osvaldo Aranha",
+    "empresa": "Deloitte",
+    "cargo": "Diretor de IA Generativa",
+    "id": 63
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48001308052024182332pm.webp",
+    "nome": "Sergio Esteves",
+    "empresa": "Loft",
+    "cargo": "CMO",
+    "id": 64
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88688716052024201850pm.webp",
+    "nome": "Jairo Rozenblit",
+    "empresa": "Logitech",
+    "cargo": "Presidente - Logitech Brasil",
+    "id": 65
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/27378619092023190247pm.webp",
+    "nome": "Ronaldo Valiño",
+    "empresa": "Energy Hub",
+    "cargo": "CEO",
+    "id": 66
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95451724072024161558pm.webp",
+    "nome": "Jose Salinero",
+    "empresa": "RepsolSinopec",
+    "cargo": "Head of R&D",
+    "id": 67
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/58583506082024135420085887.webp",
+    "nome": "Thiago Schimmelpfennig",
+    "empresa": "Constellation",
+    "cargo": "Diretor Comercial e de Inovação",
+    "id": 68
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/18286601082024180341pm.webp",
+    "nome": "André Salem",
+    "empresa": "Blockforce",
+    "cargo": "Co-Founder & Advisor",
+    "id": 69
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5834806082024141441638282.webp",
+    "nome": "Raiane Coelho",
+    "empresa": "Blockforce",
+    "cargo": "Senior Blockchain Engineer",
+    "id": 70
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/99289826072024160549pm.webp",
+    "nome": "Olivia Merquior",
+    "empresa": "IARA | BRIFW",
+    "cargo": "CEO | Idealizadora",
+    "id": 71
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/75999016072024161607pm.webp",
+    "nome": "Bruna Todeschini",
+    "empresa": "Lojas Renner S.A.",
+    "cargo": "Líder de Gestão ESG",
+    "id": 72
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5347716072024194552pm.webp",
+    "nome": "Renato Martins",
+    "empresa": "Grupo Malwee",
+    "cargo": "Gerente de Comunicação Corporativa e Sustentabilidade",
+    "id": 73
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32100026072024175514pm.webp",
+    "nome": "Gustavo Narciso",
+    "empresa": "Instituto C&A",
+    "cargo": "Diretor Executivo",
+    "id": 74
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/61940501082024004041am.webp",
+    "nome": "Anaterra Barros de Oliveira",
+    "empresa": "Dasa",
+    "cargo": "CIO",
+    "id": 75
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/79641826072024172013pm.webp",
+    "nome": "Rafaela de Souza Braga",
+    "empresa": "DASA",
+    "cargo": "Sr Data Science Manager",
+    "id": 76
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/4916405062024131127pm.webp",
+    "nome": "Luiz Salomão Ribas Gomez",
+    "empresa": "TXM METHODS",
+    "cargo": "CEO",
+    "id": 77
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/4556403062024170913pm.webp",
+    "nome": "Carlos Eduardo Lopes da Silva",
+    "empresa": "Universidade Federal do Rio de Janeiro",
+    "cargo": "Professor",
+    "id": 78
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/61165416092023205013pm.webp",
+    "nome": "Raphael Moura",
+    "empresa": "ANP",
+    "cargo": "Superintendente",
+    "id": 79
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/22083028092023211438pm.webp",
+    "nome": "Ana Casaca",
+    "empresa": "Galp",
+    "cargo": "Directora Global de Inovação",
+    "id": 80
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67193929092023141351pm.webp",
+    "nome": "Marcilene Scantamburlo",
+    "empresa": "MentorApp",
+    "cargo": "CEO",
+    "id": 81
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1163910072024223631pm.webp",
+    "nome": "Pedro Seiler",
+    "empresa": "queremos",
+    "cargo": "diretor",
+    "id": 82
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/58745620092023163155pm.webp",
+    "nome": "Chico Dub",
+    "empresa": "Outra Música/ Festival Novas Frequências",
+    "cargo": "Diretor/Curador",
+    "id": 83
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82201922072024122901pm.webp",
+    "nome": "Armando Júnior",
+    "empresa": "Energy Hub Ventures",
+    "cargo": "CEO",
+    "id": 84
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8248121092023200101pm.webp",
+    "nome": "Richard Zeiger",
+    "empresa": "MSW Capital",
+    "cargo": "Sócio",
+    "id": 85
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/35091027052024151055pm.webp",
+    "nome": "Lygia Imbelloni",
+    "empresa": "B2Mamy",
+    "cargo": "Head Saúde e Bem-estar",
+    "id": 86
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/85950211072024171420pm.webp",
+    "nome": "Silvana Gontijo",
+    "empresa": "Planetapontocom",
+    "cargo": "Diretora Executiva",
+    "id": 87
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36633713092023202031pm.webp",
+    "nome": "Bruno Rondani",
+    "empresa": "100 Open Startups",
+    "cargo": "CEO",
+    "id": 88
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/54088007082024114249854014.webp",
+    "nome": "João Matsuzaka",
+    "empresa": "Petrobras",
+    "cargo": "Gerente de Parceiras com Startups",
+    "id": 89
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57744829072024163152pm.webp",
+    "nome": "Jefferson Pereira",
+    "empresa": "Tergo",
+    "cargo": "CTO",
+    "id": 90
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/23152307082023155320pm.webp",
+    "nome": "Ricardo Motta",
+    "empresa": "Dshbird",
+    "cargo": "CEO",
+    "id": 91
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41753931072024121513pm.webp",
+    "nome": "Bruno Bianchi",
+    "empresa": "WeBox.AI",
+    "cargo": "CEO",
+    "id": 92
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/69612307082024080610677283.webp",
+    "nome": "Carlos Minc",
+    "empresa": "ALERJ",
+    "cargo": "Ex Ministro do Meio Ambiente",
+    "id": 93
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/40041607082024175221101758.webp",
+    "nome": "Diego de Almeida Cruz",
+    "empresa": "-",
+    "cargo": "Graduado em Geografia pela Universidade Fluminense e Pós-graduado em Gestão Escolar e Coordenação Pedagógica pelo SENAC",
+    "id": 94
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/49406302102023012744am.webp",
+    "nome": "Paula Tebett​",
+    "empresa": ".Paula Tebett Marketing Digtal",
+    "cargo": "Especialista em Marketing Digital",
+    "id": 95
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/49372427072024205944pm.webp",
+    "nome": "Fabio Marchese",
+    "empresa": "BZB Parceira Sharecare Expansão Projeto Blue Zones Brasil",
+    "cargo": "Sócio Diretor",
+    "id": 96
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80119329042024162650pm.webp",
+    "nome": "Fábio Seidl",
+    "empresa": "-",
+    "cargo": "Diretor Global de Desenvolvimento Criativo da Meta",
+    "id": 97
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/37133012062024165824pm.webp",
+    "nome": "Rosane Ricciardi",
+    "empresa": "Grupo Amil",
+    "cargo": "CDAO - Chief Data And Analytics Officer",
+    "id": 98
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53190604072024141915pm.webp",
+    "nome": "Cheila Portela",
+    "empresa": "Vibe Saúde",
+    "cargo": "Head de Produto e Inteligência Artificial",
+    "id": 99
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/70257611072024185906pm.webp",
+    "nome": "Mathieu Fitoussi",
+    "empresa": "Servier",
+    "cargo": "Diretor Geral",
+    "id": 100
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/25638225062024182206pm.webp",
+    "nome": "Daniella Christina Xavier de Oliveira",
+    "empresa": "ANP",
+    "cargo": "Coordenadora Geral de Investimentos em PD&I",
+    "id": 101
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30530703072024135814pm.webp",
+    "nome": "Caio Rodrigues",
+    "empresa": "Toti Diversidade",
+    "cargo": "Cofundador & Gerente de Novos Negócios",
+    "id": 102
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/62197704072024191900pm.webp",
+    "nome": "Tai Barroso",
+    "empresa": "Awelle",
+    "cargo": "Estrategista de Comunidades & Fundadora",
+    "id": 103
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/64075716072024190156pm.webp",
+    "nome": "Aline Fróes",
+    "empresa": "Vai na Web",
+    "cargo": "CEO",
+    "id": 104
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1117222072024233827pm.webp",
+    "nome": "João Bernardo Casali",
+    "empresa": "NATIVA",
+    "cargo": "Líder América Latina",
+    "id": 105
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/25190028062024205546pm.webp",
+    "nome": "Guilherme Nazar",
+    "empresa": "-",
+    "cargo": "Vice-Presidente Regional para a América Latina da Binance",
+    "id": 106
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/86432425092023204926pm.webp",
+    "nome": "Aline Fernandes",
+    "empresa": "BeInCrypto",
+    "cargo": "Jornalista",
+    "id": 107
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21958227072023091221am.webp",
+    "nome": "Gil Giardelli",
+    "empresa": "5Era Inteligencia e Inovação Digital",
+    "cargo": "CEO",
+    "id": 108
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36584917072024032640am.webp",
+    "nome": "Izabella Camargo",
+    "empresa": "Izabella Camargo",
+    "cargo": "Jornalista e Palestrante",
+    "id": 109
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/58765225072024010452am.webp",
+    "nome": "Simone Nascimento",
+    "empresa": "Projeto Equilíbria - Saúde Corporativa",
+    "cargo": "Founder",
+    "id": 110
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/47241907082024184535855707.webp",
+    "nome": "Mario Lima",
+    "empresa": "-",
+    "cargo": "Doutor em Design, coordena o NITE",
+    "id": 111
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20812407082024175408360434.webp",
+    "nome": "Aline Kauffmann",
+    "empresa": "-",
+    "cargo": "Designer e pesquisadora, Mestre em Design e Tecnologia",
+    "id": 112
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/19409607082024183439413168.webp",
+    "nome": "Carolina de Assis",
+    "empresa": "-",
+    "cargo": "Bacharela em Astronomia pela UFRJ, Mestra em História da Ciência",
+    "id": 113
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/91155805082024192304pm.webp",
+    "nome": "Nai Correa",
+    "empresa": "Fiap, Lemon, Ex-Carrefour",
+    "cargo": "Head of Innovation",
+    "id": 114
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36828516052024221950pm.webp",
+    "nome": "Elaine Lemos",
+    "empresa": "L'Oréal",
+    "cargo": "Sênior Manager Sales Out",
+    "id": 115
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/93592312062024211223pm.webp",
+    "nome": "Ana Carnaúba",
+    "empresa": "Deloitte",
+    "cargo": "Partner",
+    "id": 116
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/59221419092023162516pm.webp",
+    "nome": "Etienne Du Jardin",
+    "empresa": "Mimo Live Sales",
+    "cargo": "Co-founder & CPO",
+    "id": 117
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41600418092023162031pm.webp",
+    "nome": "Diego Carbonell",
+    "empresa": "ViX Paula Hermanny",
+    "cargo": "Especialista em Sustentabilidade e ESG",
+    "id": 118
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5191131052024181730pm.webp",
+    "nome": "Edgar Pereira da SIlva",
+    "empresa": "Novissimo Edgar",
+    "cargo": "Artista",
+    "id": 119
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/45709028062024153305pm.webp",
+    "nome": "Zaika dos Santos",
+    "empresa": "Afrofuturismo Art e STEM",
+    "cargo": "Founder and CEO",
+    "id": 120
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80555404072024230242pm.webp",
+    "nome": "Matheus Leston",
+    "empresa": "Matheus Leston",
+    "cargo": "Artista",
+    "id": 121
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60806905062024133815pm.webp",
+    "nome": "Angelica Mari",
+    "empresa": "Futuros Possíveis",
+    "cargo": "CEO",
+    "id": 122
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21725730052024002405am.webp",
+    "nome": "Carolina Tomaz",
+    "empresa": "Donut Brasil",
+    "cargo": "Co-fundadora",
+    "id": 123
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/54188402072024195206pm.webp",
+    "nome": "Ana Lavaquial",
+    "empresa": "Instituto LivMundi",
+    "cargo": "Cofundadora",
+    "id": 124
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/55542217062024141203pm.webp",
+    "nome": "Carla Frontini",
+    "empresa": "novo nordisk",
+    "cargo": "Digital Open Innovation Lead",
+    "id": 125
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/37609814062024210405pm.webp",
+    "nome": "Alex Vieira",
+    "empresa": "hcor",
+    "cargo": "CIO",
+    "id": 126
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52206702082024215041pm.webp",
+    "nome": "Ana Carolina Cândido",
+    "empresa": "Hapvida Notredame Intermedica",
+    "cargo": "Head de Inovação Aberta",
+    "id": 127
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/38023520072024003805am.webp",
+    "nome": "Plínio Targa",
+    "empresa": "brain4care",
+    "cargo": "CEO",
+    "id": 128
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1813025062024115334am.webp",
+    "nome": "Emanuela Rainho",
+    "empresa": "Secretaria Estadual de Saúde do Rio de Janeiro",
+    "cargo": "Assessora de Inovação",
+    "id": 129
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/81934428092023182048pm.webp",
+    "nome": "Claudia de Mello",
+    "empresa": "Secretaria de Estado de Saúde do Rio de Janeiro",
+    "cargo": "Secretária de Estado de Saúde",
+    "id": 130
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43510503072024211247pm.webp",
+    "nome": "Allan Borges",
+    "empresa": "CEDAE",
+    "cargo": "Executivo ESG",
+    "id": 131
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/63288402082024191518pm.webp",
+    "nome": "Alexandra Monteiro",
+    "empresa": "UERJ",
+    "cargo": "Coordenador do Núcleo de Telessaúde e Saúde Digital",
+    "id": 132
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44624921062024162755pm.webp",
+    "nome": "Thiago da Silva Pires",
+    "empresa": "ANP",
+    "cargo": "Coordenador Geral de Projetos",
+    "id": 133
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/93883225092023152139pm.webp",
+    "nome": "Leandro Rossi",
+    "empresa": "Mining Hub",
+    "cargo": "Diretor Executivo",
+    "id": 134
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/23030728062024132020pm.webp",
+    "nome": "Janayna Bhering",
+    "empresa": "Fundep",
+    "cargo": "Executiva",
+    "id": 135
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/12226315072024154318pm.webp",
+    "nome": "Renata Ramalhosa",
+    "empresa": "Beta-i Brasil",
+    "cargo": "CEO & Co-founder",
+    "id": 136
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60997007062024234508pm.webp",
+    "nome": "Rosely Maximo",
+    "empresa": "Brasil Energia",
+    "cargo": "Sócia e editora",
+    "id": 137
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82278922072024193849pm.webp",
+    "nome": "Rita Knop",
+    "empresa": "Neoenergia",
+    "cargo": "Diretora Comercial",
+    "id": 138
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/12260529072024175315pm.webp",
+    "nome": "Wagner Victer",
+    "empresa": "Governo do Estado do RJ",
+    "cargo": "Ex Secretário de Estado de Energia, Indústria Naval e Petróleo do RJ",
+    "id": 139
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43947006082024113222811042.webp",
+    "nome": "Ricardo Salles",
+    "empresa": "RJ+ Negócios",
+    "cargo": "Lider",
+    "id": 140
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71597506082024020232am.webp",
+    "nome": "Marcelo Simas",
+    "empresa": "Associação Comercial do Rio de Janeiro - ACRJ",
+    "cargo": "Coordenador Didático",
+    "id": 141
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82274218092023215738pm.webp",
+    "nome": "Márcio Santa Rosa",
+    "empresa": "SEAS-RJ Secretaria de Estado do Ambiente do Rio de Janeiro",
+    "cargo": "Coordenador de Economia Azul",
+    "id": 142
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67339128062024225004pm.webp",
+    "nome": "Carlos Alecrim",
+    "empresa": "CA² Consulting",
+    "cargo": "CEO",
+    "id": 143
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53507015082023142150pm.webp",
+    "nome": "Mauro Wainstock",
+    "empresa": "HUB 40+",
+    "cargo": "Sócio Fundador",
+    "id": 144
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/91386530072024174017pm.webp",
+    "nome": "Eduardo Genton",
+    "empresa": "CA2 Consulting",
+    "cargo": "Head Produto",
+    "id": 145
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/77873601082024111933am.webp",
+    "nome": "Luís Filipe Saba laranjeira da França Barboza",
+    "empresa": "Medhy",
+    "cargo": "CEO",
+    "id": 146
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/26668406082024153435185221.webp",
+    "nome": "Wagner Pontes",
+    "empresa": "Jaé",
+    "cargo": "Presidente",
+    "id": 147
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/69688007082024160920086858.webp",
+    "nome": "Zeca Vianna",
+    "empresa": "Jaé",
+    "cargo": "CEO",
+    "id": 148
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/35509307082024153426958389.webp",
+    "nome": "Marcos Marins",
+    "empresa": "Visa",
+    "cargo": "Diretor Executivo de Aceitação Brasil",
+    "id": 149
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/79305012072024151500pm.webp",
+    "nome": "Ana Gabriela Pereira Mathias",
+    "empresa": "Muv Capital",
+    "cargo": "COO",
+    "id": 150
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/69779206082024105421130234.webp",
+    "nome": "Nara Moraes",
+    "empresa": "Universidade de São Paulo",
+    "cargo": "Pesquisadora",
+    "id": 151
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43666529072024232946pm.webp",
+    "nome": "Guilherme Temporão",
+    "empresa": "PUC-Rio",
+    "cargo": "Professor Associado",
+    "id": 152
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8284519072024200340pm.webp",
+    "nome": "Marco Tenani",
+    "empresa": "Grupo Pão de Açúcar",
+    "cargo": "Diretor de Logística, Distribuição e Produção",
+    "id": 153
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/25478719072024120740pm.webp",
+    "nome": "Augusto Ghiraldello",
+    "empresa": "Invent Indústria e Comércio de Equipamentos de Movimentação Ltda",
+    "cargo": "CCO",
+    "id": 154
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21017219072024233447pm.webp",
+    "nome": "Igor Monteiro",
+    "empresa": "EqSeed",
+    "cargo": "CEO",
+    "id": 155
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53281108082024101142533695.webp",
+    "nome": "Marcelo Ciampolini",
+    "empresa": "Antler",
+    "cargo": "Partner",
+    "id": 156
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/13091002102023205109pm.webp",
+    "nome": "Rafael Duton",
+    "empresa": "Instituto 12",
+    "cargo": "Co-Fundador (Movile e 21212) e Operating Partner Crescera Investimentos",
+    "id": 157
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/54586805082024141245pm.webp",
+    "nome": "Augusto Sales",
+    "empresa": "Arpoador Capital",
+    "cargo": "Sócio",
+    "id": 158
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53301105082024150109pm.webp",
+    "nome": "Alex Meincheim",
+    "empresa": "UpFlux",
+    "cargo": "Diretor Executivo",
+    "id": 159
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/58454630072024224229pm.webp",
+    "nome": "Sérgio Fernandes",
+    "empresa": "Copybase",
+    "cargo": "CEO",
+    "id": 160
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/83343214092023152425pm.webp",
+    "nome": "Bruno Gregorio",
+    "empresa": "Polifrete",
+    "cargo": "CEO",
+    "id": 161
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5634802082024184712pm.webp",
+    "nome": "Diego Schlindwein",
+    "empresa": "Sirros IoT",
+    "cargo": "Founder",
+    "id": 162
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88619106082024205120622139.webp",
+    "nome": "Rennan Assumpção da Costa",
+    "empresa": "FERJEE (Federação do Estado do Rio de Janeiro de Esportes Eletrônicos)",
+    "cargo": "Diretor Social",
+    "id": 163
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41007427052024195954pm.webp",
+    "nome": "Sidarta Ribeiro",
+    "empresa": "-",
+    "cargo": "Um dos mais importantes neurocientista brasileiro, biólogo e vice-diretor do Instituto do Cérebro da UF-RN",
+    "id": 164
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/24942908062024022956am.webp",
+    "nome": "Adana Kambeba",
+    "empresa": "-",
+    "cargo": "Médica e pesquisadora que une elementos culturais do seu povo à medicina ocidental",
+    "id": 165
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/3640304072024191359pm.webp",
+    "nome": "Ernesto Xavier",
+    "empresa": "Faran Logun Produções Artísticas",
+    "cargo": "Palestrante",
+    "id": 166
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/42595315072024220036pm.webp",
+    "nome": "Isabella Torres Maluf Vasconcellos",
+    "empresa": "Hestia Ventures",
+    "cargo": "CEO e Fundadora",
+    "id": 167
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/10323105082024201917pm.webp",
+    "nome": "Fernanda Rodrigues",
+    "empresa": "Ressaca Produções Artísticas Eireli",
+    "cargo": "Representante legal",
+    "id": 168
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43982406082024064827039432.webp",
+    "nome": "Patricia Travassos",
+    "empresa": "Prosa Press",
+    "cargo": "Diretora criativa",
+    "id": 169
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/18237529072024162857pm.webp",
+    "nome": "Taisa Costa",
+    "empresa": "Danone Brasil",
+    "cargo": "Head de Sustentabilidade",
+    "id": 170
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95484214092023144212pm.webp",
+    "nome": "Gabriel Renault",
+    "empresa": "EloGroup",
+    "cargo": "Senior Partner & CDO (Chief Data & AI Officer) na EloGroup",
+    "id": 171
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/51826819062024181540pm.webp",
+    "nome": "João Batista Gonçalves",
+    "empresa": "Monkey Branch",
+    "cargo": "CTO",
+    "id": 172
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/87136026062024160605pm.webp",
+    "nome": "Carlos Zuccolo",
+    "empresa": "Hyper Island Americas",
+    "cargo": "Head of Marketing & Comms",
+    "id": 173
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/22384620052024231707pm.webp",
+    "nome": "Italo Marsili",
+    "empresa": "Faculdade Mar Atlântico",
+    "cargo": "Reitor",
+    "id": 174
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71261819062024164801pm.webp",
+    "nome": "Guilherme Weigert",
+    "empresa": "Conexa Saúde",
+    "cargo": "CEO",
+    "id": 175
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/75765124072023223127pm.webp",
+    "nome": "Walmoli Gerber ",
+    "empresa": "BrasilRad/ACATE",
+    "cargo": "Diretor Executivo",
+    "id": 176
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/50756226062024144030pm.webp",
+    "nome": "Carlos Ballarati",
+    "empresa": "KaL LAb Biotecnologia",
+    "cargo": "Diretor Técnico",
+    "id": 177
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29042928062024021451am.webp",
+    "nome": "Erico Theodorovitz",
+    "empresa": "MOSO Venture&Design Builder",
+    "cargo": "CEO",
+    "id": 178
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44366914092023212929pm.webp",
+    "nome": "Mauro Farias",
+    "empresa": "Governo do Estado do Rio de Janeiro",
+    "cargo": "Secretário de Estado de Transformação Digital",
+    "id": 179
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/86152721072024233417pm.webp",
+    "nome": "Denise Vogel",
+    "empresa": "Urbanistíca Planejamento Urbano-Regional-Ambiental",
+    "cargo": "Diretora Executiva",
+    "id": 180
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44734518092023113529am.webp",
+    "nome": "Andrea Rego Monteiro",
+    "empresa": "Natron Engenharia S.A.",
+    "cargo": "Vice-Presidente",
+    "id": 181
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/87468010062024184235pm.webp",
+    "nome": "Amanda Aires",
+    "empresa": "tecban",
+    "cargo": "Analista de Plataformas Digitais",
+    "id": 182
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57900531072023095109am.webp",
+    "nome": "João Paulo Pereira ",
+    "empresa": "Microsoft",
+    "cargo": "Sr. Especialista em Inovação e Tecnologia aplicada aos Serviços Financeiros",
+    "id": 183
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/99347611062024171521pm.webp",
+    "nome": "Larissa Moreira ",
+    "empresa": "Itaú Unibanco",
+    "cargo": "Digital Assets Manager",
+    "id": 184
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60911317062024171456pm.webp",
+    "nome": "George Smetana ",
+    "empresa": "Banco Bradesco S.A.",
+    "cargo": "Especialista de Inovação",
+    "id": 185
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80305801082024174443pm.webp",
+    "nome": "Gustavo Dieamant",
+    "empresa": "Grupo Boticário",
+    "cargo": "Diretor Executivo de Pesquisa e Desenvolvimento",
+    "id": 186
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48126414062024060057am.webp",
+    "nome": "Luciene Ferreira Pedrosa",
+    "empresa": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)",
+    "cargo": "Especialista em Regulação",
+    "id": 187
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5655402082024183753pm.webp",
+    "nome": "Rafael Valladares",
+    "empresa": "Repsol Sinopec Brasil",
+    "cargo": "Pesquisador Sr.",
+    "id": 188
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94709928062024100749am.webp",
+    "nome": "Lygia Anthero",
+    "empresa": "Sistema B Brasil",
+    "cargo": "Executiva de Impacto Socioambiental",
+    "id": 189
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20846525072024200853pm.webp",
+    "nome": "Lucci Silva",
+    "empresa": "Mãe Terra / Unilever",
+    "cargo": "Líder de Sustentabilidade Nutrition Unilever Brasil",
+    "id": 190
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/13437623072024211517pm.webp",
+    "nome": "Rafaela Gontijo",
+    "empresa": "NUU",
+    "cargo": "CEO",
+    "id": 191
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/91936917072024184947pm.webp",
+    "nome": "Alexandra Söderberg",
+    "empresa": "Naveia",
+    "cargo": "CMO & Cofundadora",
+    "id": 192
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82060111072024232848pm.webp",
+    "nome": "Melissa Fernandez",
+    "empresa": "IBP / iUP",
+    "cargo": "Gerente de Tecnologia e Inovação",
+    "id": 193
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67124224072024144824pm.webp",
+    "nome": "Ricardo Ramos",
+    "empresa": "Petrobras",
+    "cargo": "Open Innovation Consultant",
+    "id": 194
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/46846925062024215341pm.webp",
+    "nome": "Cristiane Moura",
+    "empresa": "Bip Consulting",
+    "cargo": "Líder de Práticas de Inovação e Sustentabilidade",
+    "id": 195
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/85257029082023170350pm.webp",
+    "nome": "Patrícia Grabowsky",
+    "empresa": "Ocyan",
+    "cargo": "Gerente Executiva de Inovação e Transformação Digital",
+    "id": 196
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/842708082024130758103203.webp",
+    "nome": "Alexandre Pinheiro dos Santos",
+    "empresa": "Comissão de Valores Mobiliários - CVM",
+    "cargo": "Superintendente Geral",
+    "id": 197
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/66358516072024102408am.webp",
+    "nome": "Maria Tereza Umbelino",
+    "empresa": "Bmv Global",
+    "cargo": "CEO",
+    "id": 198
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29718417072024173958pm.webp",
+    "nome": "Cristiano Andrade",
+    "empresa": "Department for Business and Trade - DBT UK",
+    "cargo": "Diretor de Investimentos e Internacionalização",
+    "id": 199
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48554422082023080106am.webp",
+    "nome": "Cristinna Araujo",
+    "empresa": "My-EuroBusiness",
+    "cargo": "CEO",
+    "id": 200
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/34422114062024212026pm.webp",
+    "nome": "Helena Rocha",
+    "empresa": "Associação Pipa Social",
+    "cargo": "Fundadora e Diretora",
+    "id": 201
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/99157512072024173749pm.webp",
+    "nome": "Itamar Silva",
+    "empresa": "Associação Escola sem Muros Grupo Eco",
+    "cargo": "Presidente",
+    "id": 202
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57423211072024221510pm.webp",
+    "nome": "Bruna Simãozinho",
+    "empresa": "Instituto Mundo Novo",
+    "cargo": "Coordenadora Geral de Projetos",
+    "id": 203
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30876423072024155540pm.webp",
+    "nome": "Rômulo Sales ",
+    "empresa": "Teatro Nova Iguaçu Petrobras",
+    "cargo": "Diretor",
+    "id": 204
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15920108082024031117252057.webp",
+    "nome": "Andre Sih",
+    "empresa": "Fu2re Smart Solutions",
+    "cargo": "Founder e Managing Partner",
+    "id": 205
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/66921207082024090511884949.webp",
+    "nome": "Rodolfo Carvalho",
+    "empresa": "Incentivar",
+    "cargo": "CEO, Founder",
+    "id": 206
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15401901082024202119pm.webp",
+    "nome": "Adriano Ribeiro",
+    "empresa": "Doe Sentidos",
+    "cargo": "Founder",
+    "id": 207
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/17492703102023103619am.webp",
+    "nome": "Vittorio Lo Bianco",
+    "empresa": "Fundação Cecierj",
+    "cargo": "Coordenador do NITE, Doutor em Educação, especialista em Políticas Públicas e Gênero",
+    "id": 208
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/86475705082024235153pm.webp",
+    "nome": "Pedro Paulo Ribeiro Vieira",
+    "empresa": "Neptus Consultoria & Meio Ambiente Ltda",
+    "cargo": "CEO, Pesquisador e Pós-Doutor",
+    "id": 209
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78258906082024142238085492.webp",
+    "nome": "Raphael Narezzi",
+    "empresa": "Santander",
+    "cargo": "IT Head",
+    "id": 210
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/92051805082024210722pm.webp",
+    "nome": "Marcelo Costa",
+    "empresa": "Treinamento Estrutural Global - TEG",
+    "cargo": "Diretor Científico",
+    "id": 211
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65220007082024142337179703.webp",
+    "nome": "André Oliveira",
+    "empresa": "PX.center",
+    "cargo": "CEO",
+    "id": 212
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30029307082024185704460393.webp",
+    "nome": "Fábio Alencar",
+    "empresa": "-",
+    "cargo": "Jornalista e Doutorando em Ciências",
+    "id": 213
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/37313002072024112357am.webp",
+    "nome": "Alex Ogrady",
+    "empresa": "Sai do Papel",
+    "cargo": "Manager Director Arca Hub",
+    "id": 214
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/39040722072024213534pm.webp",
+    "nome": "Uriel Segall",
+    "empresa": "Banco Bradesco",
+    "cargo": "Gerente de pesquisa e inovação.",
+    "id": 215
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67154225052024150128pm.webp",
+    "nome": "Helena Cubero",
+    "empresa": "Autonoma",
+    "cargo": "Psicóloga Clinica e Neuropsicóloga",
+    "id": 216
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8079112072024163833pm.webp",
+    "nome": "Marcia Ogawa",
+    "empresa": "Hospital das Clínicas",
+    "cargo": "Advisor",
+    "id": 217
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/72143416072024194239pm.webp",
+    "nome": "Marco Bego",
+    "empresa": "InovaHC & Instituto de Radiologia HCFMUSP",
+    "cargo": "Diretor Executivo",
+    "id": 218
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/19119210072024221416pm.webp",
+    "nome": "Joaquim Kavakama",
+    "empresa": "Núclea",
+    "cargo": "Senior Advisor",
+    "id": 219
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/56496428062024185547pm.webp",
+    "nome": "Rodolfo Fucher",
+    "empresa": "ABES Associação Brasileira das Empresas de Software",
+    "cargo": "Presidente do conselho",
+    "id": 220
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89533408072024102627am.webp",
+    "nome": "Hudson Macario Leite",
+    "empresa": "Stam metalúrgica LTDA",
+    "cargo": "Gestor de Pesquisa, Desenvolvimento e Inovação",
+    "id": 221
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/76624418062024142157pm.webp",
+    "nome": "Carlos Abreu",
+    "empresa": "Conselho de Arquitetura e Urbanismo - CAURJ",
+    "cargo": "Vice-Presidente",
+    "id": 222
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1817926072024223432pm.webp",
+    "nome": "Frank Freitas Lima",
+    "empresa": "TracFtech",
+    "cargo": "CEO",
+    "id": 223
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/50711913072024194513pm.webp",
+    "nome": "Túlio Souza",
+    "empresa": "TracF Tech",
+    "cargo": "COO",
+    "id": 224
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/42286607062024125605pm.webp",
+    "nome": "Paula Reis",
+    "empresa": "Mulher Trader",
+    "cargo": "Fundadora",
+    "id": 225
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52137907062024145601pm.webp",
+    "nome": "Ana de Mattos",
+    "empresa": "Content Creator / Marca Pessoal",
+    "cargo": "Trader e Criadora de Conteúdo",
+    "id": 226
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82066904062024194255pm.webp",
+    "nome": "Jéssica Lima",
+    "empresa": "JP2PAY",
+    "cargo": "CEO",
+    "id": 227
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/4298030072024143734pm.webp",
+    "nome": "Luís de Magalhães ",
+    "empresa": "BeInCrypto",
+    "cargo": "Brazil Team Leader",
+    "id": 228
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/45723505062024135257pm.webp",
+    "nome": "Leila Oliveira",
+    "empresa": "Warner Music Brasil",
+    "cargo": "Presidente",
+    "id": 229
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/9499610062024230652pm.webp",
+    "nome": "Renata Novaes",
+    "empresa": "Flecha",
+    "cargo": "Diretora",
+    "id": 230
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/63967225062024201432pm.webp",
+    "nome": "Andrea Janér",
+    "empresa": "Oxygen",
+    "cargo": "CEO",
+    "id": 231
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89915416072024174921pm.webp",
+    "nome": "Eduardo da Silva Torres",
+    "empresa": "ANP",
+    "cargo": "Assessor",
+    "id": 232
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36667206082024125715008880.webp",
+    "nome": "Carlos Américo Pacheco",
+    "empresa": "FAPESP",
+    "cargo": "Diretor-Presidente",
+    "id": 233
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20631007082024194914617025.webp",
+    "nome": "Renato Correa Vieira",
+    "empresa": "Vibra Energia",
+    "cargo": "Diretor de Inovação",
+    "id": 234
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/12679330072024130739pm.webp",
+    "nome": "Jana Branco",
+    "empresa": "CESAR",
+    "cargo": "Gerente de Projetos e Soluções Educacionais",
+    "id": 235
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67627827052024192636pm.webp",
+    "nome": "Kari Gleiser",
+    "empresa": "Instituto AEDP",
+    "cargo": "Psicóloga referência em tratamento de trauma e dissociação",
+    "id": 236
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41746627052024194130pm.webp",
+    "nome": "Lourenço Bustani",
+    "empresa": "Mandalah",
+    "cargo": "Co-fundador da Mandalah, reconhecida como uma das empresas mais inovadoras do mundo em 2021",
+    "id": 237
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78263921092023195723pm.webp",
+    "nome": "Roberto Godinho",
+    "empresa": "IBEU / Instituto Brasil - Estados Unidos",
+    "cargo": "Presidente",
+    "id": 238
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94106730072024190404pm.webp",
+    "nome": "Nelson Rocha",
+    "empresa": "CAERJ - Câmara do Comércio e Indústria do RJ",
+    "cargo": "Presidente",
+    "id": 239
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/33754830072024105132am.webp",
+    "nome": "Marcos Felipe ",
+    "empresa": "Instituto SOI",
+    "cargo": "Sócio",
+    "id": 240
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41810021092023205549pm.webp",
+    "nome": "Carolina Pimentel",
+    "empresa": "Geração Social",
+    "cargo": "CEO",
+    "id": 241
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/7955306082024131621039956.webp",
+    "nome": "Cláudio de Araújo Leão ",
+    "empresa": "CEM Tecnologia",
+    "cargo": "CEO",
+    "id": 242
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/9654812072024190109pm.webp",
+    "nome": "Paulo Simões",
+    "empresa": "Constellation",
+    "cargo": "Gerente de Inovação",
+    "id": 243
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71809829072024214553pm.webp",
+    "nome": "Alfredo Renault",
+    "empresa": "COPPE/UFRJ",
+    "cargo": "Diretor do Centro de Baixo Carbono",
+    "id": 244
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88644805082024183608pm.webp",
+    "nome": "Lucilene Bragança",
+    "empresa": "Equinor",
+    "cargo": "Líder de implementação de projetos tecnológicos e digitais",
+    "id": 245
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/62703807082024214441742355.webp",
+    "nome": "Vinicius Maia",
+    "empresa": "Petrobras",
+    "cargo": "Gerente de Inovação Aberta",
+    "id": 246
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32385508092023210501pm.webp",
+    "nome": "Rodolfo Ribeiro",
+    "empresa": "Wenovate",
+    "cargo": "CEO",
+    "id": 247
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80701505072024135252pm.webp",
+    "nome": "Mateos Quadros",
+    "empresa": "mateos quadros",
+    "cargo": "fundador e diretor criativo",
+    "id": 248
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/59609905072024131354pm.webp",
+    "nome": "Guilherme Machado",
+    "empresa": "Guilherme Machado",
+    "cargo": "Artista 3D",
+    "id": 249
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88720618072024193003pm.webp",
+    "nome": "Hanna Inaiáh",
+    "empresa": "Hanna Inaiáh",
+    "cargo": "Artista",
+    "id": 250
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53257410072024134727pm.webp",
+    "nome": "Eduardo Politzer",
+    "empresa": "Doce Marola",
+    "cargo": "head",
+    "id": 251
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65375810072024024233am.webp",
+    "nome": "Matheus Carvalho",
+    "empresa": "mlgnh_",
+    "cargo": "Artista Digital",
+    "id": 252
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21992310072024231916pm.webp",
+    "nome": "Felipe Nunes",
+    "empresa": "Felipe Nunes",
+    "cargo": "Artista 3D",
+    "id": 253
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60234316072024002238am.webp",
+    "nome": "Theory of Nothing [TON]",
+    "empresa": "Theory of Nothing",
+    "cargo": "CEO da TON",
+    "id": 254
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/28127716072024113421am.webp",
+    "nome": "Matheus Gramacho",
+    "empresa": "Freelancer",
+    "cargo": "Artista 3D",
+    "id": 255
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/24078015072024192851pm.webp",
+    "nome": "Gabriel Brasil",
+    "empresa": "Imaginaria",
+    "cargo": "Criador Digital",
+    "id": 256
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/55133717072024155948pm.webp",
+    "nome": "Sogno",
+    "empresa": "Coletivo de Comunicação da Teia dos Povos",
+    "cargo": "Comunicador Popular",
+    "id": 257
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32593525072024140724pm.webp",
+    "nome": "Jean Petra",
+    "empresa": "Autônomo",
+    "cargo": "Escultor Digital",
+    "id": 258
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/47376105082024180614pm.webp",
+    "nome": "Marcio Aguiar",
+    "empresa": "NVIDIA",
+    "cargo": "Diretor da divisão Enterprise da NVIDIA para América Latina",
+    "id": 259
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/87729530072024210801pm.webp",
+    "nome": "Newton Queiroz",
+    "empresa": "Bossa / NNQ",
+    "cargo": "Conselheiro Consultivo",
+    "id": 260
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/55187617072024180807pm.webp",
+    "nome": "Fernando Potsch",
+    "empresa": "Seniortech Ventures",
+    "cargo": "CEO",
+    "id": 261
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/66162831072023211942pm.webp",
+    "nome": "Cláudio Motta",
+    "empresa": "Anjos do Brasil e CTSM Consultoria",
+    "cargo": "Sócio-Diretor",
+    "id": 262
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65536006082024102659420847.webp",
+    "nome": "Maria Paula",
+    "empresa": "Embaixada da Paz",
+    "cargo": "Embaixadora",
+    "id": 263
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/83621608082024150342021004.webp",
+    "nome": "Sophia Prado",
+    "empresa": "Bcome",
+    "cargo": "CEO & Founder",
+    "id": 264
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15702530072024180920pm.webp",
+    "nome": "Aline Pedrazzi",
+    "empresa": "Mãe-Estar",
+    "cargo": "CEO",
+    "id": 265
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/16355106082024184613248179.webp",
+    "nome": "Juliana de Andrade Sarilio",
+    "empresa": "BB Ventures",
+    "cargo": "Head",
+    "id": 266
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/81382525062024135743pm.webp",
+    "nome": "Simone Ponce",
+    "empresa": "Bee2Be",
+    "cargo": "CEO",
+    "id": 267
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48275929052024194027pm.webp",
+    "nome": "Mariá Amorim",
+    "empresa": "Seed4Seed",
+    "cargo": "CEO",
+    "id": 268
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/68216704072024180047pm.webp",
+    "nome": "Fernanda Freire",
+    "empresa": "Invest.Rio",
+    "cargo": "Head de Marketing",
+    "id": 269
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/53160622072024184745pm.webp",
+    "nome": "Havanna",
+    "empresa": "Vanna For Artis",
+    "cargo": "CEO & Fundadora",
+    "id": 270
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52309225072024024247am.webp",
+    "nome": "Marcele Porto",
+    "empresa": "Secretaria de Estado da Mulher do RJ",
+    "cargo": "Coordenadora de Pesquisa e Monitoramento sobre Empreendedorismo Feminino",
+    "id": 271
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/86073607082024182335439430.webp",
+    "nome": "Dilma Campos",
+    "empresa": "Nossa Praia",
+    "cargo": "CEO",
+    "id": 272
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/39553905082024230113pm.webp",
+    "nome": "Patricia Miguel Gouveia",
+    "empresa": "Bndes",
+    "cargo": "Superintendente de Integridade e Compliance",
+    "id": 273
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60834005082024221708pm.webp",
+    "nome": "Fernando Blower",
+    "empresa": "Sindicato de Bares e Restaurantes do Rio de Janeiro",
+    "cargo": "Presidente do SindRio",
+    "id": 274
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/6098607082024125255877889.webp",
+    "nome": "Luiz Marcelo da Costa Correia",
+    "empresa": "Grupo Trigo",
+    "cargo": "CDO | CMO",
+    "id": 275
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/33724407082024175926158542.webp",
+    "nome": "Léo Farias",
+    "empresa": "-",
+    "cargo": "Engenheiro, mestre em Saúde Digital, CEO da ACPD Brasil, especialista em segurança da informação e privacidade",
+    "id": 276
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/74590024042024194127pm.webp",
+    "nome": "Taís Fernandes Duarte",
+    "empresa": "t-Risk",
+    "cargo": "Diretora",
+    "id": 277
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32336524042024165127pm.webp",
+    "nome": "Carlos Gonser",
+    "empresa": "t-Risk",
+    "cargo": "CTO",
+    "id": 278
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94688701072024180535pm.webp",
+    "nome": "Tácito Augusto Silva Leite",
+    "empresa": "t-Risk Software Gestão de Riscos",
+    "cargo": "CEO",
+    "id": 279
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/68604901082024155941pm.webp",
+    "nome": "Flavia Lobo",
+    "empresa": "MultiRio",
+    "cargo": "Jornalista",
+    "id": 280
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/77698130052024000537am.webp",
+    "nome": "Maíra Moraes",
+    "empresa": "MultiRio",
+    "cargo": "Presidente",
+    "id": 281
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/54020122052024211836pm.webp",
+    "nome": "Marcelo Santana de Oliveira",
+    "empresa": "SME- RJ",
+    "cargo": "Professor de História",
+    "id": 282
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/85395402072024194507pm.webp",
+    "nome": "Fabio Dias de Mendonça",
+    "empresa": "MultiRio",
+    "cargo": "Gerente do projeto ANDAR",
+    "id": 283
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/91533825092023152053pm.webp",
+    "nome": "Bruna Dias",
+    "empresa": "Play9",
+    "cargo": "Creator",
+    "id": 284
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/97512822072024140341pm.webp",
+    "nome": "Matheus Costa",
+    "empresa": "-",
+    "cargo": "Influenciador Digital e Publicitário",
+    "id": 285
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/6710523072024005240am.webp",
+    "nome": "Gabriel Paes Leme",
+    "empresa": "PlayNest",
+    "cargo": "Cofundador do PlayNest",
+    "id": 286
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/73039324072024222454pm.webp",
+    "nome": "Carlos Gamboa",
+    "empresa": "Fisher Venture Builder",
+    "cargo": "sócio fundador",
+    "id": 287
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/90465807082024161529281127.webp",
+    "nome": "Azor Barros",
+    "empresa": "Parallax Ventures",
+    "cargo": "Managing Partner",
+    "id": 288
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88842812062024173714pm.webp",
+    "nome": "Mariana Rodrigues França",
+    "empresa": "ANP",
+    "cargo": "Superintendente Adjunta de Tecnologia e Meio Ambiente",
+    "id": 289
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/22703626092023120304pm.webp",
+    "nome": "Letícia de Oliveira",
+    "empresa": "Universidade Federal Fluminense",
+    "cargo": "Professora Titular",
+    "id": 290
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/56065609072024220708pm.webp",
+    "nome": "Karina Cox",
+    "empresa": "Instituto da Criança",
+    "cargo": "Gerente Geral de Responsabilidade Social",
+    "id": 291
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8395512072024154946pm.webp",
+    "nome": "Raquel Filgueiras",
+    "empresa": "Innovation Norway",
+    "cargo": "Advisor - O&G and Maritime - South America",
+    "id": 292
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/70843117062024210913pm.webp",
+    "nome": "Dercio Carvalheda",
+    "empresa": "Carvalhêda Advocacia",
+    "cargo": "Sócio Fundador",
+    "id": 293
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15330930072024222948pm.webp",
+    "nome": "Pedro Kurtz",
+    "empresa": "Deezer",
+    "cargo": "Director Content, Americas",
+    "id": 294
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32530431072024125741pm.webp",
+    "nome": "Helena Gaia",
+    "empresa": "Deezer Brazil",
+    "cargo": "Líder de Relações Artistícas LATAM",
+    "id": 295
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/81808007082024113820078835.webp",
+    "nome": "Yuri Valdevite",
+    "empresa": "Deezer",
+    "cargo": "Marketing Lead - LATAM",
+    "id": 296
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/446331072024000948am.webp",
+    "nome": "Fabio Costa",
+    "empresa": "Som Livre",
+    "cargo": "Gerente Comercial Digital",
+    "id": 297
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65432331072024124433pm.webp",
+    "nome": "Luana Rodrigues",
+    "empresa": "Maple Bear freguesia",
+    "cargo": "assistente pedagógica",
+    "id": 298
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/77353808082023112800am.webp",
+    "nome": "Luiz Henrique Cruz",
+    "empresa": "Neoenergia",
+    "cargo": "Gerente de Mobilidade Elétrica",
+    "id": 299
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36051726072024003019am.webp",
+    "nome": "Gustavo Poli",
+    "empresa": "RECAR",
+    "cargo": "CEO",
+    "id": 300
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/92549930072024160812pm.webp",
+    "nome": "Renata Maery",
+    "empresa": "CA² Consulting",
+    "cargo": "Venture Leader e Head de Excelência Executiva",
+    "id": 301
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/37123830072024145951pm.webp",
+    "nome": "Erika Freitas",
+    "empresa": "Zelluz",
+    "cargo": "CEO",
+    "id": 302
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32118402082024010552am.webp",
+    "nome": "Anderson Marcelo",
+    "empresa": "Delivery das Favelas",
+    "cargo": "Ceo",
+    "id": 303
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/4303106082024135633267896.webp",
+    "nome": "José Mário Daibes",
+    "empresa": "Ze do Lead",
+    "cargo": "CEO",
+    "id": 304
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/87341115072024154304pm.webp",
+    "nome": "Taiana Jung",
+    "empresa": "Logos Consultoria",
+    "cargo": "Sócia fundadora",
+    "id": 305
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/17570411072024124538pm.webp",
+    "nome": "Marcos Santos",
+    "empresa": "Aquarela Analytics",
+    "cargo": "CEO",
+    "id": 306
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/92947124072023205959pm.webp",
+    "nome": "Ariel Scaliter",
+    "empresa": "Agrotoken",
+    "cargo": "Co founder -CTO",
+    "id": 307
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/85230815082023153018pm.webp",
+    "nome": "Marcos Gueibel ",
+    "empresa": "Canal Woohoo",
+    "cargo": "Sócio e Presidente do Conselho",
+    "id": 308
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/41322717072024151639pm.webp",
+    "nome": "Lucas Rima",
+    "empresa": "Canal Woohoo",
+    "cargo": "Head de Conteúdo",
+    "id": 309
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/50986426072024192107pm.webp",
+    "nome": "Carina Quirino",
+    "empresa": "Prefeitura da Cidade do Rio de Janeiro",
+    "cargo": "Subsecretária de Regulação e Ambiente de Negócios",
+    "id": 310
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71366002082024232927pm.webp",
+    "nome": "Filipe Fonteles Cabral",
+    "empresa": "Dannemann Siemsen",
+    "cargo": "Advogado e sócio",
+    "id": 311
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/62768305082024003838am.webp",
+    "nome": "Gaspar Júnior",
+    "empresa": "CELINT - Governança Construtivista",
+    "cargo": "Sócio e Conselheiro",
+    "id": 312
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/2051313092023204141pm.webp",
+    "nome": "Vinicius Lara",
+    "empresa": "Sai do Papel",
+    "cargo": "Consultor",
+    "id": 313
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/2203628092023224431pm.webp",
+    "nome": "Lucimar Dantas",
+    "empresa": "Ibmec",
+    "cargo": "Head do Ibmec Hubs",
+    "id": 314
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60006601082024220703pm.webp",
+    "nome": "Alice Ferraz",
+    "empresa": "Fhits",
+    "cargo": "Fundadora e CEO",
+    "id": 315
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32729606082024155930353649.webp",
+    "nome": "Marcelo Zimet",
+    "empresa": "Grupo L'Oréal No Brasil",
+    "cargo": "Presidente",
+    "id": 316
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/291001082024004637am.webp",
+    "nome": "Walter Maia",
+    "empresa": "Timenow",
+    "cargo": "Diretor de Inovação e Desenvolvimento Corporativo",
+    "id": 317
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80569330072024184634pm.webp",
+    "nome": "Murillo Borges",
+    "empresa": "Iguá Saneamento",
+    "cargo": "Diretor de Operações",
+    "id": 318
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57204805082024174416pm.webp",
+    "nome": "Andréa Migliori",
+    "empresa": "Workub Digital",
+    "cargo": "Founder e CEO",
+    "id": 319
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43464129052024152629pm.webp",
+    "nome": "Edvam Filho",
+    "empresa": "NFT Brasil",
+    "cargo": "Founder",
+    "id": 320
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/27677205082024210506pm.webp",
+    "nome": "Guta Nascimento",
+    "empresa": "Web3News",
+    "cargo": "Colunista",
+    "id": 321
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78450107082024114421524758.webp",
+    "nome": "Antonio Neto",
+    "empresa": "VEGA | Ethereum Brasil",
+    "cargo": "CEO",
+    "id": 322
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67892107082024180041378597.webp",
+    "nome": "Camille Moraes",
+    "empresa": "-",
+    "cargo": "Designer gráfica, Mestra em Ciências e Doutora em Design",
+    "id": 323
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36082107082024180136533038.webp",
+    "nome": "Núbia Roma",
+    "empresa": "-",
+    "cargo": "Designer gráfica, Pós-graduada em Design Estratégico",
+    "id": 324
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/34420608082024175230323856.webp",
+    "nome": "Ludhiana Brock",
+    "empresa": "OtimaBrasil",
+    "cargo": "Diretora de inovação, Produtos e Projetos Especiais",
+    "id": 325
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/62115108082024160542494247.webp",
+    "nome": "Sílvio José Elia Galvão",
+    "empresa": "Pesagro Rio",
+    "cargo": "Diretor Técnico",
+    "id": 326
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82638806072024111219am.webp",
+    "nome": "Anderson Bichara",
+    "empresa": "AMERIPOL",
+    "cargo": "Delegado",
+    "id": 327
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/8872225072024124114pm.webp",
+    "nome": "Helena de Rezende",
+    "empresa": "Polícia Federal",
+    "cargo": "Corregedora-Geral da Polícia Federal",
+    "id": 328
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20638118072024112837am.webp",
+    "nome": "Marcio Felix",
+    "empresa": "EnP Energy",
+    "cargo": "CEO",
+    "id": 329
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/59412701082024204120pm.webp",
+    "nome": "Bernadette Castilho ",
+    "empresa": "Parsifal21",
+    "cargo": "Associada fundadora",
+    "id": 330
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44152906082024153650059231.webp",
+    "nome": "Alvaro Tupiassu",
+    "empresa": "Petrobras",
+    "cargo": "Gerente Executivo de Gás e Energia",
+    "id": 331
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32219226072024200948pm.webp",
+    "nome": "Rafael Ponzi",
+    "empresa": "Banco Acredita",
+    "cargo": "Diretor Executivo",
+    "id": 332
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/6768626072024192257pm.webp",
+    "nome": "Leonardo Ribeiro",
+    "empresa": "Clube Empreendedor Brasil",
+    "cargo": "Vice Presidente",
+    "id": 333
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/87055315092023211323pm.webp",
+    "nome": "Lucy Deccache",
+    "empresa": "DeccacheCom",
+    "cargo": "CEO",
+    "id": 334
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30248929072024195216pm.webp",
+    "nome": "Lucas Brito",
+    "empresa": "Agência Nameless",
+    "cargo": "Sócio-Fundador",
+    "id": 335
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/37405427072024110212am.webp",
+    "nome": "Dina Storey",
+    "empresa": "Optimum Green Ventures",
+    "cargo": "CEO & Cofundadora",
+    "id": 336
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/40062008072024181342pm.webp",
+    "nome": "Gary Viles",
+    "empresa": "Neuro Rehab Recovery Inc.",
+    "cargo": "Founder",
+    "id": 337
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65080829072024133240pm.webp",
+    "nome": "Armando Morado Ferreira",
+    "empresa": "Departamento de Ciência e Tecnologia do Exército Brasileiro",
+    "cargo": "Chefe de Ensino, Pesquisa, Desenvolvimento e Inovação",
+    "id": 338
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60865605082024153607pm.webp",
+    "nome": "Roberto Gallo",
+    "empresa": "ABIMDE",
+    "cargo": "Presidente",
+    "id": 339
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15534930072024233442pm.webp",
+    "nome": "Paulo Ricardo Torres",
+    "empresa": "Condor Tecnologias Não Letais",
+    "cargo": "Diretor Industrial, Pesquisa, Desenvolvimento e Inovação",
+    "id": 340
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/75922228082023181519pm.webp",
+    "nome": "Aderson Passos",
+    "empresa": "Instituto Militar de Engenharia",
+    "cargo": "Professor",
+    "id": 341
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/35603126092023210238pm.webp",
+    "nome": "Matheus Zeuch",
+    "empresa": "SAP Labs Latin America",
+    "cargo": "Chief Innovation Officer",
+    "id": 342
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95968207082024073739629469.webp",
+    "nome": "Adriano Buzaid",
+    "empresa": "Gohobby Future Technology",
+    "cargo": "CEO",
+    "id": 343
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/50014325072024121614pm.webp",
+    "nome": "Danilo Gonçalves",
+    "empresa": "Iterpec",
+    "cargo": "COO",
+    "id": 344
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/13680407082024150202263034.webp",
+    "nome": "Fabio Barreto",
+    "empresa": "Just Travel",
+    "cargo": "Founder CTO",
+    "id": 345
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32672508082024100407873207.webp",
+    "nome": "Gutierri Belo",
+    "empresa": "Senac RJ",
+    "cargo": "Coordenador de Tecnologias",
+    "id": 346
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/9224510072024212246pm.webp",
+    "nome": "Suzan Barreto",
+    "empresa": "PwC",
+    "cargo": "Sócia líder de Data, Analytics & AI",
+    "id": 347
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78292917072024204801pm.webp",
+    "nome": "Olivier Devaux",
+    "empresa": "Serasa Experian",
+    "cargo": "Diretor de Inovação",
+    "id": 348
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/99903421092023021156am.webp",
+    "nome": "Lucas Daibert",
+    "empresa": "Binder",
+    "cargo": "Sócio e VP de Planejamento",
+    "id": 349
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/27846008082024161629876077.webp",
+    "nome": "Cristhiane Oliveira da Graça Amâncio",
+    "empresa": "Embrapa",
+    "cargo": "Chefe Geral da Embrapa Agrobiologia e pesquisadora em Sociologia Rural",
+    "id": 350
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/21402027052024210246pm.webp",
+    "nome": "Suzana Herculano",
+    "empresa": "Jornal Folha de São Paulo",
+    "cargo": "Neurocientista de Renome Mundial e Colunista",
+    "id": 351
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67490630072024185130pm.webp",
+    "nome": "Pedro Leal Henz",
+    "empresa": "leal.cc",
+    "cargo": "Creative Technologist",
+    "id": 352
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/79431305082024125113pm.webp",
+    "nome": "Bernardo Srur",
+    "empresa": "abcripto",
+    "cargo": "CEO",
+    "id": 353
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82728705082024190934pm.webp",
+    "nome": "Eduardo Marques",
+    "empresa": "B3 Digitas",
+    "cargo": "Co founder",
+    "id": 354
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/31275207082024103027882958.webp",
+    "nome": "Julia Rosin                                                                ",
+    "empresa": "Bitso",
+    "cargo": "Head de Public Policy",
+    "id": 355
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95833402082024155016pm.webp",
+    "nome": "Pedro Pessanha",
+    "empresa": "-",
+    "cargo": "Artista e pesquisador",
+    "id": 356
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89260731072024174930pm.webp",
+    "nome": "Natasha Felix",
+    "empresa": "Museu do Amanhã",
+    "cargo": "editora artística",
+    "id": 357
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/56241017062024131100pm.webp",
+    "nome": "Solange Feliciano",
+    "empresa": "Black Women In Tech",
+    "cargo": "CEO",
+    "id": 358
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/39152724072024220344pm.webp",
+    "nome": "Nele Leosk",
+    "empresa": "Ministério de Relações Exteriores da Estônia",
+    "cargo": "Embaixadora Especial para Assuntos Digitais",
+    "id": 359
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/26559607082024122522319982.webp",
+    "nome": "Rodolfo Schneider",
+    "empresa": "-",
+    "cargo": "Direção geral de conteúdo rede Bandeirantes de comunicação",
+    "id": 360
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/36849827092023170004pm.webp",
+    "nome": "Karina Lima",
+    "empresa": "Amazon Web Services",
+    "cargo": "Head of Startups Brazil",
+    "id": 361
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/58686731052024230727pm.webp",
+    "nome": "Cris dos Prazeres",
+    "empresa": "Instituto Precisa Ser",
+    "cargo": "Vice Presidente",
+    "id": 362
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/76623618072024185134pm.webp",
+    "nome": "Cristiane Costa",
+    "empresa": "Nubank",
+    "cargo": "Crypto Tech Engineer",
+    "id": 363
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88632522072024173404pm.webp",
+    "nome": "Caio Andréa",
+    "empresa": "iFood",
+    "cargo": "Product Lead",
+    "id": 364
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/42932006082024143120743129.webp",
+    "nome": "Paula Cardoso",
+    "empresa": "Blinmy",
+    "cargo": "CEO",
+    "id": 365
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/18535619072024140249pm.webp",
+    "nome": "Itamar Olímpio",
+    "empresa": "Co-viva  Consultoria de Inovação corporativa",
+    "cargo": "Fundador",
+    "id": 366
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98786029052024152648pm.webp",
+    "nome": "Renata Rivetti",
+    "empresa": "Reconnect Happiness at Work",
+    "cargo": "Fundadora",
+    "id": 367
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/51389022072024184454pm.webp",
+    "nome": "Edson Feltrim",
+    "empresa": "Instituto Sicoob para o Desenvolvimento Sustentável",
+    "cargo": "Superintendente",
+    "id": 368
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52247923072024180001pm.webp",
+    "nome": "Camila Valverde",
+    "empresa": "Fundação ArcelorMittal",
+    "cargo": "Diretora Superintendente",
+    "id": 369
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65954031072024181559pm.webp",
+    "nome": "Otacílio Nascimento",
+    "empresa": "Fundação Toyota do Brasil",
+    "cargo": "Diretor Executivo",
+    "id": 370
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/18882821062024200204pm.webp",
+    "nome": "Guilherme Ambar",
+    "empresa": "Seegene Brazil",
+    "cargo": "CEO",
+    "id": 371
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/89410028062024111629am.webp",
+    "nome": "André Vasconcellos",
+    "empresa": "Comissão de Acompanhamento e Avaliação dos Estudos da PPP de Saúde",
+    "cargo": "Presidente",
+    "id": 372
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/15100325062024152211pm.webp",
+    "nome": "Bruno Borghi",
+    "empresa": "Associação Brasileira de Startups de Saúde",
+    "cargo": "CEO",
+    "id": 373
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/132007082024123131331401.webp",
+    "nome": "Caio Stenio",
+    "empresa": "Ages Bioactive Compounds",
+    "cargo": "CEO",
+    "id": 374
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95339031072023154946pm.webp",
+    "nome": "Heloísa Passos",
+    "empresa": "Trexx",
+    "cargo": "CEO",
+    "id": 375
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52343112062024141207pm.webp",
+    "nome": "Cynthya Rodrigues",
+    "empresa": "GMD",
+    "cargo": "Head Comercial",
+    "id": 376
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60659301082024192016pm.webp",
+    "nome": "Roberta Coelho ",
+    "empresa": "MIBR",
+    "cargo": "CEO",
+    "id": 377
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78437415072024225920pm.webp",
+    "nome": "Bia Azeredo",
+    "empresa": "UFRJ e COEMA",
+    "cargo": "Professora UFRJ fundadora COEMA",
+    "id": 378
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/11753612072024205047pm.webp",
+    "nome": "Susana Vinzon ",
+    "empresa": "UFRJ",
+    "cargo": "Professora",
+    "id": 379
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/90038926072024143253pm.webp",
+    "nome": "Thiago Valente ",
+    "empresa": "Fundação Grupo Boticário",
+    "cargo": "Gerente de Projetos",
+    "id": 380
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/20916905082024131339pm.webp",
+    "nome": "Sara Crosman",
+    "empresa": "Oi Futuro",
+    "cargo": "Presidente",
+    "id": 381
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/2367720092023030816am.webp",
+    "nome": "Hector Gusmão",
+    "empresa": "Bolder Inovação",
+    "cargo": "CEO/Fundador",
+    "id": 382
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57685005072024150056pm.webp",
+    "nome": "Felipe Furtado",
+    "empresa": "Oi Futuro",
+    "cargo": "Comitê Estratégico de Educação",
+    "id": 383
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/60860108072024190340pm.webp",
+    "nome": "Tanci Simões",
+    "empresa": "CESAR",
+    "cargo": "Pesquisadora e Analista Educacional SR",
+    "id": 384
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/40745417062024165152pm.webp",
+    "nome": "Renato Feitosa",
+    "empresa": "Fundação Oswaldo CRuz",
+    "cargo": "Tecnologista",
+    "id": 385
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98226627062024162213pm.webp",
+    "nome": "Pedro Henrique Jasmim",
+    "empresa": "Grupo Berlinn",
+    "cargo": "Sócio",
+    "id": 386
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/96411414062024180936pm.webp",
+    "nome": "Fabio Zibenberg",
+    "empresa": "Grupo Berlinn e T.T. Burger",
+    "cargo": "Empreendedor, sócio do Grupo Berlinn e T.T. Burger",
+    "id": 387
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/78316716072024160842pm.webp",
+    "nome": "Alan Rochlin",
+    "empresa": "MAP Brasil",
+    "cargo": "Managing & Business Director",
+    "id": 388
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44731425072024180510pm.webp",
+    "nome": "Vitor Delphim",
+    "empresa": "Enermatch",
+    "cargo": "Fundador & CEO",
+    "id": 389
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98384918092023175026pm.webp",
+    "nome": "Flávio França",
+    "empresa": "Media Glass",
+    "cargo": "CEO",
+    "id": 390
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/31049623072024011923am.webp",
+    "nome": "Diogo Serra Baldissin",
+    "empresa": "Sense Plus Consultoria e Desenvolvimento",
+    "cargo": "CEO",
+    "id": 391
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/38343401072024151350pm.webp",
+    "nome": "Pedro Caratori",
+    "empresa": "Simplex",
+    "cargo": "Fundador e CEO",
+    "id": 392
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/81191019072024214022pm.webp",
+    "nome": "Pretinho da Serrinha",
+    "empresa": "Preto do Beco Produções Artisticas Ltda",
+    "cargo": "Sócio/Presidente",
+    "id": 393
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48447211082023103238am.webp",
+    "nome": "Kenneth Corrêa",
+    "empresa": "80 20 Marketing",
+    "cargo": "Diretor de Estratégia",
+    "id": 394
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71322105082024191213pm.webp",
+    "nome": "Juliano Kimura",
+    "empresa": "trianons",
+    "cargo": "CEO",
+    "id": 395
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1716707082024171327120194.webp",
+    "nome": "Thiago Gonçalves",
+    "empresa": "Blip",
+    "cargo": "Diretor Sales Solutions | AI & Data Apps",
+    "id": 396
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/80008724072024161325pm.webp",
+    "nome": "Lia Esposito Roston",
+    "empresa": "Baptista Luz",
+    "cargo": "VP de Corporate e Sócia Bluz",
+    "id": 397
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/7795830082023151428pm.webp",
+    "nome": "Vitor Taublib",
+    "empresa": "LOI Investimentos",
+    "cargo": "Sócio",
+    "id": 398
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/59202305082024141514pm.webp",
+    "nome": "Murillo Vianna",
+    "empresa": "Angra Partners",
+    "cargo": "Diretor",
+    "id": 399
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65613917072024192811pm.webp",
+    "nome": "Eduardo Gomes",
+    "empresa": "Board Academy",
+    "cargo": "Chairman",
+    "id": 400
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/43976805082024162922pm.webp",
+    "nome": "Luiz Carvalho",
+    "empresa": "Consultoria",
+    "cargo": "Inovação",
+    "id": 401
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29823207082024180845839230.webp",
+    "nome": "Luis Henrique",
+    "empresa": "-",
+    "cargo": "Sociólogo e Mestre em Educação",
+    "id": 402
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/56887929072024191738pm.webp",
+    "nome": "Luiz Guilherme Rodrigues Antunes",
+    "empresa": "100 Open Startups",
+    "cargo": "Coordenador Congresso Internacional de Casos de Open Innovation",
+    "id": 403
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/57379827052024183515pm.webp",
+    "nome": "Vandana Shiva",
+    "empresa": "-",
+    "cargo": "Filósofa e ativista ambiental de destaque internacional",
+    "id": 404
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/95158530092023002105am.webp",
+    "nome": "Tatiana Roque",
+    "empresa": "-",
+    "cargo": "Professora e ex-secretária de Ciência e Tecnologia do Município do Rio de Janeiro",
+    "id": 405
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/48248004072024142027pm.webp",
+    "nome": "Victor Santos",
+    "empresa": "Secretaria de Estado de Segurança Pública",
+    "cargo": "Secretário de Estado",
+    "id": 406
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30522902072024200925pm.webp",
+    "nome": "Simone Feigelson Deutsch",
+    "empresa": "UNIRIO - Universidade Federal do Estado do Rio de Janeiro",
+    "cargo": "Arquiteta e Urbanista - Professora Associada",
+    "id": 407
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/92751716062024133151pm.webp",
+    "nome": "Álvaro Albernaz",
+    "empresa": "FINARQ Consultoria",
+    "cargo": "Diretor",
+    "id": 408
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/47848515072024152700pm.webp",
+    "nome": "Thomas Trebat",
+    "empresa": "Columbia Global Centers Rio de Janeiro",
+    "cargo": "Diretor",
+    "id": 409
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32553209072024212644pm.webp",
+    "nome": "Patricia Cristina Rodrigues",
+    "empresa": "PUC- Rio",
+    "cargo": "Professora",
+    "id": 410
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/94216110072024012540am.webp",
+    "nome": "Danilo Zelinski",
+    "empresa": "KPTL Investimentos",
+    "cargo": "Head de Investimento em Clima e Natureza",
+    "id": 411
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/54287402102023013825am.webp",
+    "nome": "Edson Mosquéra ",
+    "empresa": "Invest.Rio",
+    "cargo": "Diretor de Administração e Finanças",
+    "id": 412
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/16748209072024204256pm.webp",
+    "nome": "Uri Levine",
+    "empresa": "Waze",
+    "cargo": "Co-fundador",
+    "id": 413
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/29797425072024133826pm.webp",
+    "nome": "Gustavo Tutuca",
+    "empresa": "-",
+    "cargo": "Secretário de Estado de Turismo do Rio de Janeiro",
+    "id": 414
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/30918919092023231634pm.webp",
+    "nome": "Carla Zeltzer",
+    "empresa": "FazGame",
+    "cargo": "Co-fundadora e CEO",
+    "id": 415
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/10557506082024165520933005.webp",
+    "nome": "Valdemir Silveira ",
+    "empresa": "APIPASS",
+    "cargo": "CEO & Co-founder",
+    "id": 416
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/99250517092023140856pm.webp",
+    "nome": "Denilson Rocha",
+    "empresa": "Adiau Velórios ao Vivo",
+    "cargo": "CEO",
+    "id": 417
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/10737807082024231236531040.webp",
+    "nome": "José Manuel Tomáz da Costa ",
+    "empresa": "Yapuana",
+    "cargo": "Líder de Branding",
+    "id": 418
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1737719072024200148pm.webp",
+    "nome": "Lucas Fonseca",
+    "empresa": "BeX Educação",
+    "cargo": "Fundador e CEO",
+    "id": 419
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/52497619072024202122pm.webp",
+    "nome": "João Brognoli \t",
+    "empresa": "Grupo Duo&Co",
+    "cargo": "CEO",
+    "id": 420
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/83907619072024212222pm.webp",
+    "nome": "Lidiane Costa",
+    "empresa": "Farani Escola de Negócios",
+    "cargo": "Coordenadora de Conteúdo",
+    "id": 421
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/35759423092023140432pm.webp",
+    "nome": "André Guedes",
+    "empresa": "UNISUAM / UNILASALLE",
+    "cargo": "Diretor da ABINC no Rio de Janeiro  / Smart City Expert",
+    "id": 422
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/74126109092023052101am.webp",
+    "nome": "Arapuan Netto",
+    "empresa": "Unisuam",
+    "cargo": "Reitor",
+    "id": 423
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/35989315092023230744pm.webp",
+    "nome": "Henry Kupty",
+    "empresa": "Infostrax Brasil Consultoria",
+    "cargo": "CEO Infostrax",
+    "id": 424
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/64539020062024180600pm.webp",
+    "nome": "Beto Marcelino",
+    "empresa": "Icities The Smart Cities Hub",
+    "cargo": "Sócio fundador",
+    "id": 425
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/74804729072024122328pm.webp",
+    "nome": "Mayara Borges",
+    "empresa": "Prorede3 INtermediação de Doações LTDA",
+    "cargo": "Co- Founder",
+    "id": 426
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/98273902102023142925pm.webp",
+    "nome": "Junior Rodrigues",
+    "empresa": "Abstartups",
+    "cargo": "Head de Negócios e Venture Capital",
+    "id": 427
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/82836630072024010938am.webp",
+    "nome": "Carol Santos ",
+    "empresa": "Educar+",
+    "cargo": "Fundadora e CEO",
+    "id": 428
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/67356005062024004345am.webp",
+    "nome": "Alessandra Caldeira",
+    "empresa": "Plataforma Impact",
+    "cargo": "Gerente de Operações e Parcerias",
+    "id": 429
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44440712062024131425pm.webp",
+    "nome": "Henrique Aragon",
+    "empresa": "TripFlip",
+    "cargo": "COO",
+    "id": 430
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/32839904072024180157pm.webp",
+    "nome": "Aline Almeida",
+    "empresa": "Instituto Oi Futuro",
+    "cargo": "Gestora de Comunicação",
+    "id": 431
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/86545710072024213925pm.webp",
+    "nome": "Carolina Caravana",
+    "empresa": "Abragames",
+    "cargo": "VP",
+    "id": 432
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/5375524072024160114pm.webp",
+    "nome": "Marcio Filho",
+    "empresa": "ACJOGOS-RJ",
+    "cargo": "Presidente",
+    "id": 433
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/23924110072024213959pm.webp",
+    "nome": "Igor Moreno",
+    "empresa": "CESAR School",
+    "cargo": "Professor",
+    "id": 434
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/75665825092023131332pm.webp",
+    "nome": "André Pellenz",
+    "empresa": "-",
+    "cargo": "Diretor e autor",
+    "id": 435
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/88761726072024153911pm.webp",
+    "nome": "Daniel Filho",
+    "empresa": "Lereby Produções Ltda.",
+    "cargo": "Diretor / Produtor",
+    "id": 436
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/63577526072024154805pm.webp",
+    "nome": "Mário Rosa",
+    "empresa": "ioasys",
+    "cargo": "Head of Culture & Learning Studio",
+    "id": 437
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/63644029072024155756pm.webp",
+    "nome": "Luiz Telles",
+    "empresa": "A-LAB",
+    "cargo": "Chief Storytelling Officer",
+    "id": 438
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/10451429072024205002pm.webp",
+    "nome": "Andre Bello",
+    "empresa": "The Human Power",
+    "cargo": "Founder",
+    "id": 439
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/1311629092023144532pm.webp",
+    "nome": "Jessica Santos",
+    "empresa": "100 Open Startups",
+    "cargo": "Head Open Startups",
+    "id": 440
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/44025206082024184855858793.webp",
+    "nome": "José Damico",
+    "empresa": "SciCrop",
+    "cargo": "CEO",
+    "id": 441
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/42234305082024203246pm.webp",
+    "nome": "Danielle Leonel",
+    "empresa": "HUB CNA",
+    "cargo": "Head de Inovação",
+    "id": 442
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/47104631072024183829pm.webp",
+    "nome": "Alain Marques",
+    "empresa": "AgFoodVentures",
+    "cargo": "CEO",
+    "id": 443
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/42196907082024181241415030.webp",
+    "nome": "Luciana Perdigão",
+    "empresa": "-",
+    "cargo": "Doutora em Ciências, Tecnologias e Inclusão (PGCTin - UFF) e Mestre em Diversidade e Inclusão (CMPDI - UFF)",
+    "id": 444
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/71228707082024190659681765.webp",
+    "nome": "Bruno José Peixoto",
+    "empresa": "-",
+    "cargo": "Mestre em Zoologia (MN-UFRJ) e Bacharel em Ciências Biológicas modalidade Biologia Marinha (UFRJ)",
+    "id": 445
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/19927507082024181815966581.webp",
+    "nome": "Felipe Monteiro",
+    "empresa": "-",
+    "cargo": "Doutorando em educação pela Universidade do Estado do Rio de Janeiro (UERJ).",
+    "id": 446
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/65960122072024215307pm.webp",
+    "nome": "Nazareth Ribeiro",
+    "empresa": "APTA Psicologia e Neurofeedback LTDA",
+    "cargo": "CEO and Founder",
+    "id": 447
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/61078024072024143817pm.webp",
+    "nome": "Patrícia Sanches",
+    "empresa": "Claro",
+    "cargo": "Coordenadora de Sustentabilidade",
+    "id": 448
+  },
+  {
+    "foto": "https://imgs.rioinnovationweek.com.br/Fotos/50850822072024131332pm.webp",
+    "nome": "Renata Moraes",
+    "empresa": "Centro Brasil no Clima/The Climate Reality Project Brasil",
+    "cargo": "Gerente do Climate Reality Project Brasil",
+    "id": 449
+  }
+]
